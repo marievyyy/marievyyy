@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Data Structures and Algorithm
 - ✨ Beyond coding, I like to play indie games (🌻 Stardew Valley / 🍣 Chef RPG) and spend time with my family
 
-<br/>
-
 ---
 
 <h3>My Web Development Journey</h3>
@@ -74,7 +72,6 @@ Here are some ideas to get you started:
    <img align="left" src="https://img.shields.io/badge/Webflow-1c1c1c?&style=flat-square&logo=webflow" />
 </p>
 
-<br/>
 <br/>
 
 ---
