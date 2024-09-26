@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello I’m ✨ Ivy Marie ✨
 
 <!--
 **marievyyy/marievyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📓 Currently a student at SAIT (2024-2026)
+- ⚡ Interactive Design Major in Web Design and Development
+- 🌱 Currently learning Data Structures and Algorithm
+- ✨ Beyond coding, I like to play indie games (🌻 Stardew Valley / 🍣 Chef RPG) and spend time with my family
