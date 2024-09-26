@@ -76,3 +76,17 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+---
+
+#### Connect with me
+
+<a href="https://www.linkedin.com/in/ivy-marie-porras/">
+<img align="left" src="https://img.shields.io/badge/LinkedIn-D0B8A8?&style=for-the-badge&logo=LinkedIn" />
+</a>
+<a href="https://www.instagram.com/staryvy/">
+   <img align="left" src="https://img.shields.io/badge/Instagram-DFD3C3?&style=for-the-badge&logo=Instagram" />
+</a>
+<a href="mailto:ivymarieporras@gmail.com">
+   <img align="left" src="https://img.shields.io/badge/Email-FFEEAD?&style=for-the-badge&logo=Gmail" />
+</a>
